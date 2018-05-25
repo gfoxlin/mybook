@@ -7,7 +7,9 @@ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
         
     2. 安装tomcat：
         brew install tomcat
+        
     3. 检查是否安装成功：
         catalina -h
+        
     4. 运行tomcat：
         catalina run
